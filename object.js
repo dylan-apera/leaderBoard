@@ -3,8 +3,8 @@
 */
 
 const backpack = {
-    name: "dylan",
-    surname: "apera",
+    zip: "silver",
+    color: "grey",
 }
 
 console.log("My name is:", backpack);
