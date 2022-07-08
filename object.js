@@ -7,4 +7,4 @@ const backpack = {
     color: "grey",
 }
 
-console.log("My name is:", backpack);
+console.log("Bag details: ", backpack);
